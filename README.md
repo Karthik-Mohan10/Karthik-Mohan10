@@ -1,6 +1,9 @@
 ## Hi there 👋
-I'm a mechanical engineer with a strong foundation in core subjects and a knack for turning concepts into reality. I'm pursuing my Master's education in Robotic Systems Engineering from RWTH Aachen University, Germany.
+I'm a master's student in Robotic Systems Engineering at RWTH Aachen University, Germany. Currently, building my knowledge and skills on Robotics and AI/ML applications.
 
+- 🔭 Interested to work on Robotics and Computer Vision problems
+- 🌱 I’m committed to continual learning and development
+- 👯 Looking to collaborate on any projects related to above mentioned domains
 <!--
 **Karthik-Mohan10/Karthik-Mohan10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
