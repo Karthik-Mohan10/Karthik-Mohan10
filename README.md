@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm a mechanical engineer with a strong foundation in core subjects and a knack for turning concepts into reality. I'm pursuing my Master's education in Robotic Systems Engineering from RWTH Aachen University, Germany.
 
 <!--
 **Karthik-Mohan10/Karthik-Mohan10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
