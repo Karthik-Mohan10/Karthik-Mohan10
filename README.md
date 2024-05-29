@@ -7,10 +7,10 @@ I'm a master's student in Robotic Systems Engineering at RWTH Aachen University,
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/karthik-mohan-a3670110a/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href=mailto:"karthikvv.1010@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
 
