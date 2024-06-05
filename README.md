@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a master's student in Robotic Systems Engineering at RWTH Aachen University, Germany. Currently, building my knowledge and skills on Robotics and AI/ML applications.
+I'm a master's student in Robotic Systems Engineering at RWTH Aachen University, Germany. Currently, building my knowledge and skills in Robotics and AI/ML applications.
 
 - 🔭 My interests are in Robotics and Computer Vision problems
 - 🌱 I’m committed to continual learning and development
